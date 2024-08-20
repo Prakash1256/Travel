@@ -2,6 +2,8 @@
 
 **TRAVEL.com** is a simple, customizable travel website template designed to help Travel and Tourism companies establish their online presence. This template provides a solid foundation for creating a professional website, including essential pages and features.
 
+![Buy page](UI-screenshots/1.png)
+
 ## Features
 
 - **Home Page**: 
