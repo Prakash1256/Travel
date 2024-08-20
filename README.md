@@ -45,33 +45,38 @@
    - YouTube
    - Twitter
 
-## Getting Started
+## Installation
 
-1. **Clone the Repository:**
+### Prerequisites
+- Node.js and npm installed on your machine
 
+### Steps
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/Henrychallooo/TRAVEL.com.git
    ```
-
-2. **Navigate to the Project Directory:**
-
+2. **Navigate to the project directory:**
    ```bash
    cd TRAVEL.com
    ```
-
-3. **Open the `index.html` file in your web browser** to see the homepage and explore the features.
-
-## Customization
-
-Feel free to modify the pages, update the content, and style the website to suit your brand's identity. The template is straightforward, making it easy to adapt and expand as needed.
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. **Run the application:**
+   ```bash
+   npm start
+   ```
+   The application will be available at `http://localhost:3000`.
+   
 
 ## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss any improvements or features you'd like to see.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+We welcome contributions! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch  `git checkout -b feature-branch`
+3. Commit your changes  `git commit -m 'Add new feature'`
+4. Push to the branch  `git push origin feature-branch`
+5. Create a pull request.
 
 ---
 
