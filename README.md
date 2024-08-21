@@ -55,7 +55,7 @@
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Henrychallooo/TRAVEL.com.git
+   git clone https://github.com/Prakash1256/Travel.git
    ```
 2. **Navigate to the project directory:**
    ```bash
